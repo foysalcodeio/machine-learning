@@ -1,1 +1,2 @@
-# Competitive-Programming
+# note
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
